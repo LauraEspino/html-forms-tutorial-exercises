@@ -1,0 +1,40 @@
+html {
+	background-color: rgb(14, 41, 90);
+}
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	display: flex;
+	width: 250px;
+	margin: auto;
+}
+div {
+	margin: auto;
+}
+h1,
+button {
+	color: white;
+}
+
+input {
+	background-color: midnightblue;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+h1 {
+	margin-top: 150px;
+	margin-bottom: 10px;
+	display: flex;
+	justify-content: center;
+}
+input,
+button {
+	width: 250px;
+	margin-bottom: 10px;
+}
+button {
+	background-color: cornflowerblue;
+	border-radius: 5px;
+	padding: 5px;
+	width: 100%;
+}

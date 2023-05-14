@@ -1,0 +1,32 @@
+body {
+	font-family: "Lato", sans-serif;
+}
+fieldset,
+label,
+input {
+	margin: none;
+	border: none;
+}
+label,
+input {
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 10px;
+}
+legend {
+	font-weight: 800;
+}
+input[type="text"] {
+	border: none;
+	border-bottom: 1px solid black;
+	font-size: 16px;
+	font-weight: 400;
+}
+input[type="submit"] {
+	cursor: pointer;
+	border: none;
+	padding: 10px;
+	background-color: #f65252;
+	color: white;
+	width: 100%;
+}

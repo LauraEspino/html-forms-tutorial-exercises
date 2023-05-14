@@ -10,7 +10,7 @@ fieldset {
 labels {
 	font-weight: 400;
 }
-input[type="text"],
+input[type="email"],
 input[type="tel"],
 input[type="url"] {
 	border: none;
